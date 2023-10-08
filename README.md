@@ -5,6 +5,8 @@ I made this project to analyze a database, in this case called "Music Store DB",
 * The total revenue made by a particular band, further sorting this data to find the top 10 best bands in terms of money made.
 * Finding out the most popular genre of music by country, among others.
 
+For better readability, I've added analysis questions in all 3 query files after which the correct query will be written. 
+
 ### Database and Tools
 * PostgreSQL
 * PgAdmin4
